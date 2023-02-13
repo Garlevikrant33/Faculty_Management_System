@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+#div
+  {
+    width: 50%;
+    background-color: blanchedalmond;
+    box-shadow: 12px 12px 8px rgba(12, 2, 2, 0.536);
+  }
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px rgba(169, 178, 180, 0.593);
+  
+  }
+ #label
+{
+  display: block;
+
+  font-size: 26px;
+}
+ #in
+  {
+    width: 30%;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.3);
+  }
+  #inpu
+  {
+    width: 20%;
+    padding: 10px;
+    background-color: rgb(195, 124, 61);
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, 0.3);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  #in:hover
+  {
+    background-color: rgb(218, 165, 79);
+  }
+ 
+  #body
+  {
+   
+    background-color: rgb(208, 145, 145);
+    
+  } 

@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+#add-button {
+    width: 50%;
+      padding: 10px;
+      background-color: rgba(238, 235, 232, 0.915);
+      color: rgb(229, 146, 11);
+      border: 1px;
+      border-radius: 15px;
+      font-size: 26px;
+      cursor: pointer;
+    }
+    
+    #view {
+      width: 20%;
+      padding: 10px;
+      color: rgb(229, 146, 11);
+      border: 1px;
+      font-size: 26px;
+      cursor: pointer;
+      border-radius: 15px;
+    }
+    #body
+    {
+      background-color: lightseagreen;
+    } 

@@ -1,0 +1,18 @@
+
+@charset "ISO-8859-1";
+table, th, td {
+  border: 1px solid rgb(16, 6, 6);
+  border-collapse: collapse;
+  background-color: rgb(157, 187, 96);
+}
+
+tr:nth-child(even) {
+  background-color: rgba(52, 27, 28, 0.4);
+}
+
+th:nth-child(even),td:nth-child(even) {
+  background-color: rgba(37, 57, 57, 0.4);
+}
+body{
+	background-color: rgb(189, 175, 157);
+}
